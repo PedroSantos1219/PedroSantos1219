@@ -2,7 +2,7 @@
   ### Pedro Santos
 
   I build websites for small businesses in Portugal — restaurants, bars,
-  hospitality. Currently in high school, aiming for a Computer Science
+  hospitality. Aiming for a Computer Science
   degree. I learn as I ship real projects.
 
   ---
