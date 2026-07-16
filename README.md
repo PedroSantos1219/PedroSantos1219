@@ -1,9 +1,17 @@
- ---
-  ### Pedro Santos
+ ### Pedro Santos
 
   I build websites for small businesses in Portugal — restaurants, bars,
   hospitality. Aiming for a Computer Science
   degree. I learn as I ship real projects.
+
+  **Languages**
+
+  ![Languages](https://skillicons.dev/icons?i=ts,js,html,css,python,cs,php&theme=dark)
+
+  **Stack & tools**
+
+  ![Stack](https://skillicons.dev/icons?i=astro,nextjs,react,tailwind,threejs,cloudflare,git,figma&the
+  me=dark)
 
   ---
 
@@ -68,6 +76,4 @@
   #### Contact
 
   - Email: `pedrosantos.wdv@hotmail.com`
-  - LinkedIn: `https://www.linkedin.com/in/pedro-santos-a840a139b/`
-
-  ---
+  - LinkedIn: `linkedin.com/in/pedro-santos-a840a139b`
