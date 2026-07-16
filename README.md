@@ -1,17 +1,16 @@
- ### Pedro Santos
+  ### Pedro Santos
 
   I build websites for small businesses in Portugal — restaurants, bars,
-  hospitality. Aiming for a Computer Science
+  hospitality. Currently in high school, aiming for a Computer Science
   degree. I learn as I ship real projects.
 
   **Languages**
 
-  ![Languages](https://skillicons.dev/icons?i=ts,js,html,css,python,cs,php&theme=dark)
+  ![Languages](https://skillicons.dev/icons?i=ts,js,html,css,python,cs,php)
 
   **Stack & tools**
 
-  ![Stack](https://skillicons.dev/icons?i=astro,nextjs,react,tailwind,threejs,cloudflare,git,figma&the
-  me=dark)
+  ![Stack](https://skillicons.dev/icons?i=astro,nextjs,react,tailwind,threejs,cloudflare,git,figma)
 
   ---
 
