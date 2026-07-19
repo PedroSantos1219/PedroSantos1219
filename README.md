@@ -2,8 +2,8 @@
 
 ***HELLO!***
 
-  I build websites for small businesses in Portugal — restaurants, bars,
-  hospitality. Aiming for a Computer Science
+  I build websites for small businesses in Portugal! Restaurants, bars,
+  hospitality and others. Aiming for a Computer Science
   degree. I learn as I ship real projects.
 
   **Languages**
